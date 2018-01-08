@@ -10,19 +10,19 @@ Time spent: **15** hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [ x ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
-* [  ] Settings page to change the default tip percentage.
-* [  ] UI animations (Fade animation on custom tip percentage)
-* [  ] Remembering the bill amount across app restarts (if <10mins)
-* [  ] Using locale-specific currency and currency thousands separators.
-* [  ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [ x ] Settings page to change the default tip percentage.
+* [ x ] UI animations (Fade animation on custom tip percentage)
+* [ x ] Remembering the bill amount across app restarts (if <10mins)
+* [ x ] Using locale-specific currency and currency thousands separators.
+* [ x ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
-- [  ] A Color theme option that can be set through settings and feature 5 different color themes (they look bad I know, I'm really insensitive when it comes to colors)
-- [  ] A custom tip percentage option that features a hidden text field that only appears if the user choose to input a custom amount. This custom amount can also be set as default in settings
+- [ x ] A Color theme option that can be set through settings and feature 5 different color themes (they look bad I know, I'm really insensitive when it comes to colors)
+- [ x ] A custom tip percentage option that features a hidden text field that only appears if the user choose to input a custom amount. This custom amount can also be set as default in settings
 
 ## Video Walkthrough
 
