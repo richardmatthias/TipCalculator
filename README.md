@@ -4,7 +4,7 @@
 
 Submitted by: **Langtian Qin**
 
-Time spent: **15** hours spent in total
+Time spent: **9** hours spent in total
 
 ## User Stories
 
